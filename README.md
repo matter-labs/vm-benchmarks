@@ -17,4 +17,5 @@ https://old-summer-snow.quiknode.pro/6d8caca935e0d827cbd4374472816789d55096da/
 
 https://silent-weathered-glade.quiknode.pro/eada7406e79b5d0b29f91de2c7f89a9135036d0e/
 
-**For the blocks from the last 15 min use** https://damp-nameless-star.quiknode.pro/2325ca979d1d392813588dbe45ee90c293b03cf7/. This is necessary because the new blocks were slowly being processed by the standard full Ethereum node.
+**For the blocks from the last 15 min use** https://damp-nameless-star.quiknode.pro/2325ca979d1d392813588dbe45ee90c293b03cf7/.
+This is necessary because the new blocks were slowly being processed by the standard full Ethereum node.
